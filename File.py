@@ -1,2 +1,2 @@
-print("Pierwsza linika")
-print("Druga linijka")
+print("LINIJKA 1 GITHUB")
+print("LINIJKA 2 GITHUB")
